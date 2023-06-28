@@ -1,2 +1,2 @@
 # Mindluster_course
-for practice
+for practice until I get certificate for the course.
